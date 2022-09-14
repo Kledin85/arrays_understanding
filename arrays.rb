@@ -22,4 +22,8 @@ prices.unshift 7.25
 
 is_instock.shift
 
-# The index postion starts with a 0. In the foods array index 0 would be Burger.
+# The index position starts with a 0. In the foods array index 0 would be Burger.
+
+# The .insert method will add an element to an array in any position
+
+foods.insert (1,"wings")
